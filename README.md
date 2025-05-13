@@ -27,3 +27,5 @@ Analysis of COVID19 cases and deaths in Lithuania since 2020
 ![Chart 2](1_2.jpg)
 ### New covid19 cases in Lithuania in different age groups per 100000 people, June 2021-June2022
 ![Chart 3](chart3.jpg)
+### Top10 municipalities by total deaths at the 60days period where total deaths were highest in Lithuania
+![Chart 4](chart4.jpg)
