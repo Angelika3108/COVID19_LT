@@ -16,7 +16,7 @@ Analysis of COVID19 cases and deaths in Lithuania since 2020
 5. Found 60days period per which COVID19 total deaths were highest.
 
  
-6. In this 60days period found top10 municipalities where total deaths in that period were highest. Made a plot.
+6. In this 60days period found top10 municipalities where total deaths in that period were highest and created a plot.
    
 
 ## 📊 Dashboard Overview
