@@ -1,4 +1,4 @@
-Analysis of COVID19 cases and deaths in Lithuania since 2020
+### Analysis of COVID19 cases and deaths in Lithuania since 2020
 
 
 1. Cleaned and transformed public datasets(COVID and population).
