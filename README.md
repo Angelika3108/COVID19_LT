@@ -5,7 +5,7 @@
 1. Cleaned and transformed public datasets(COVID and population).
   
   
-2. Implemented 14-days moving average smoothing for time series analysis
+2. Implemented 14-days rolling average smoothing for time series analysis
 
 
 3. Developed charts to show infection and death trends over time by age category.
