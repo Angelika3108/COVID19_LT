@@ -1,5 +1,5 @@
 ### Analysis of COVID19 cases and deaths in Lithuania since 2020
-
+Used Python libraries: Pandas, Matplotlib, Seaborn.
 
 1. Cleaned and transformed public datasets(COVID and population).
   
@@ -13,7 +13,7 @@
 4. Normalizes these charts by 100.000 population in each age group.
 
 
-5. ## 60-days period with highest total 10615 COVID19 deaths in Lithuania occured between 2020-11-20 and 2021-01-18
+5. # 60-days period with highest total 10615 COVID19 deaths in Lithuania occured between 2020-11-20 and 2021-01-18
 
  
 6. For this 60-days period normalized deaths count by 100.000 population for LT municipalities and build a chart with gradient.
