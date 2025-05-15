@@ -1,5 +1,6 @@
 ### Analysis of COVID19 cases and deaths in Lithuania since 2020
-Used Python libraries: Pandas, Matplotlib, Seaborn.
+#### Used Python libraries: Pandas, Matplotlib, Seaborn.
+#### Analytics methods: rolling average, rolling sum, normalization per 100.000
 
 1. Cleaned and transformed public datasets(COVID and population).
   
